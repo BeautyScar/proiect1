@@ -1,0 +1,10 @@
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\01.txt
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\02.txt
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\03.txt
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\04.txt
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\05.txt
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\06.txt
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\07.txt
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\08.txt
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\09.txt
+C:\Users\Gnegnel\Desktop\Mozart-main\output\txt\10.txt
